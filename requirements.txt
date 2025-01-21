@@ -1,3 +1,4 @@
 streamlit
 PyMuPDF
 PyPDF2
+google.generativeai
