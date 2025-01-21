@@ -10,7 +10,6 @@ import streamlit as st
 
 # Load environment variables from .env file
 load_dotenv()
-
 # Directory to save PDFs
 pdf_dir = "pdfs"
 os.makedirs(pdf_dir, exist_ok=True)

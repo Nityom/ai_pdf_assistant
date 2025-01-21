@@ -1,7 +1,9 @@
 streamlit
-requests
-beautifulsoup4
 PyMuPDF
 PyPDF2
+google.generativeai
 python-dotenv
-google-generative-ai
+requests
+beautifulsoup4
+
+
