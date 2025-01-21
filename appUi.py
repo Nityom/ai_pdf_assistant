@@ -1,5 +1,5 @@
 import os
-import fitz 
+from PyMuPDF import fitz 
 import google.generativeai as genai
 from dotenv import load_dotenv
 import requests
