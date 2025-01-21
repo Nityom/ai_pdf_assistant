@@ -2,3 +2,8 @@ streamlit
 PyMuPDF
 PyPDF2
 google.generativeai
+python-dotenv
+requests
+beautifulsoup4
+
+
