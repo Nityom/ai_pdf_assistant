@@ -7,3 +7,5 @@ requests
 beautifulsoup4
 pyttsx3
 speechrecognition
+
+# Note: Please install eSpeak or eSpeak-ng separately on your system.
