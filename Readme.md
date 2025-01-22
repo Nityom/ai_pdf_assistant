@@ -2,6 +2,8 @@
 
 This project implements a Python-based virtual assistant that can answer your questions about an uploaded PDF document. It leverages Google's PaLM API for powerful natural language processing.
 
+## Live Preview - https://ai-pdf-assist.streamlit.app
+
 ## Features
 
 * Upload PDF documents
