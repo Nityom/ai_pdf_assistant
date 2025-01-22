@@ -5,5 +5,5 @@ google.generativeai
 python-dotenv
 requests
 beautifulsoup4
-
-
+pyttsx3
+SpeechRecognition
